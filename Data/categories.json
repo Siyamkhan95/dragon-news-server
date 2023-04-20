@@ -1,0 +1,18 @@
+[
+    {
+        "categories_id": "01",
+        "name": "Breaking News"
+    },
+    {
+        "categories_id": "02",
+        "name": "Regular News"
+    },
+    {
+        "categories_id": "03",
+        "name": "Inernational News"
+    },
+    {
+        "categories_id": "04",
+        "name": "Sports"
+    }
+]
